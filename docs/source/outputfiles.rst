@@ -1,10 +1,10 @@
-Preparing Input Files
+Understanding the output files
 =====
 
-.. _inputbed:
+.. _outputlegacy:
 
-Transposable Element annotation in BED format
----------------------------------------------
+Legacy output
+-------------
 
 To use Lumache, first install it using pip:
 
@@ -14,7 +14,7 @@ To use Lumache, first install it using pip:
 
 .. _inputbam:
 
-BAM files
+OUT
 ----------
 
 

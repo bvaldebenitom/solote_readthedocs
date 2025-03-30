@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SoloTE'
+copyright = '2022, Valdebenito-Maturana B'
+author = 'Valdebenito-Maturana B'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.11'
+version = '1.11'
 
 # -- General configuration
 
