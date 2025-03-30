@@ -30,6 +30,5 @@ Contents
    inputfiles
    running_solote
    outputfiles
-   :caption: TUTORIALS
    singlecell_analysis
    spatialtranscriptomics_analysis
