@@ -25,7 +25,6 @@ Contents
 --------
 
 .. toctree::
-   :caption: DOCUMENTATION
    installation
    inputfiles
    running_solote
