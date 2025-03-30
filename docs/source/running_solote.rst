@@ -1,4 +1,4 @@
-Running SoloTE:
+Running SoloTE
 =====
 
 .. _installation:

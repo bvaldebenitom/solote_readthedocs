@@ -26,8 +26,12 @@ Contents
 
 .. toctree::
 
+   :caption: DOCUMENTATION
    installation
    inputfiles
    running_solote
    outputfiles
-   api
+
+   :caption: TUTORIALS
+   singlecell_analysis
+   spatialtranscriptomics_analysis
