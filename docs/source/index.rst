@@ -25,9 +25,17 @@ Contents
 --------
 
 .. toctree::
+   :caption: DOCUMENTATION
+
    installation
    inputfiles
    running_solote
    outputfiles
+   
+
+.. toctree::
+   :caption: TUTORIALS 
+   :maxdepth: 1
+
    singlecell_analysis
    spatialtranscriptomics_analysis
